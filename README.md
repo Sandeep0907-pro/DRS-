@@ -1,4 +1,3 @@
 # DRS-
 Prerequisites : make sure that opencv , pillow , imutils modules are installed.
-video clip is added .
-please download to see it .
+You can find video clip on "https://youtu.be/PEUuSm7gHHk" .
